@@ -1,0 +1,2 @@
+- Presence = Präsenz
+- Toughness = Zähigkeit
