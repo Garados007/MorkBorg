@@ -96,3 +96,11 @@ Falls ohne Klassen gespielt wird:
 ## Rüstung
 
 [Rüstung](rüstung.md) erwürfeln.
+
+## Leben
+
+> Seite 28
+
+Start mit `Zähigkeit + D8`. Mindestens 1 HP (niemals weniger)
+
+
